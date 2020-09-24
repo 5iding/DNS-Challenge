@@ -21,6 +21,7 @@ Datasets will be downloaded when you clone the repository. Run **git lfs install
 * Emotion speech from diverse ethnic background is provided. Emotions such as Anger, Disgust, Fear, Happy, Neu-tral,  and  Sad  at  four  intensity  levels:  Low,  Medium, High, Unspecified are used.
 * Non-English clips consisting of tonal and non-tonal languages are included.
 * More details about the clean speech data can be found [here](https://github.com/microsoft/DNS-Challenge/blob/icassp21/addrir/docs/ICASSP_2021_deep_noise_suppression_challenge.pdf).
+* License.txt and README.md kept inside each corpus included in clean speech for training datatset contains information about the dataset, related license terms and hyperlinks to License. 
 
 ## Noise
 * The noise clips were selected from Audioset and Freesound.

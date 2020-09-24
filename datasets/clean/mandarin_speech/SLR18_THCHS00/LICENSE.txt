@@ -1,0 +1,7 @@
+Dataset name: THCHS-30 Free Chinese Speech Corpus
+This data was downloaded from http://www.openslr.org/18/ 
+
+Identifier: SLR18
+It is a Free Chinese Speech Corpus Released by CSLT@Tsinghua University 
+
+License: Apache License v.2.0 https://www.apache.org/licenses/LICENSE-2.0

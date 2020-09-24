@@ -1,0 +1,8 @@
+Dataset name: VocalSet: A Singing Voice Dataset
+This data was downloaded from https://zenodo.org/record/1193957#.X1hkxYtlCHs
+
+Contains information from VocalSet: A Singing Voice Dataset, which is made available
+here under theCreative Commons Attribution 4.0 International.
+
+License: Creative Commons Attribution 4.0 International https://creativecommons.org/licenses/by/4.0/?. 
+
